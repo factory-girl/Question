@@ -1,0 +1,13 @@
+Script started on Mon 03 Feb 2014 09:22:45 PM NST
+softskeleton@softskeleton:~/workspace/Question/src$ java [Kv[Kc QuestionTest.java
+softskeleton@softskeleton:~/workspace/Question/src$ java QuestionTest
+Which statement(s) about Java language is(are) correct?
+1: James Gosling is the inventor of Java.
+2: The inventor of Java was born in Canada.
+3: The original name of the Java language was Oak.
+Your answer: 1 2 3
+true
+softskeleton@softskeleton:~/workspace/Question/src$ exit
+exit
+
+Script done on Mon 03 Feb 2014 09:23:13 PM NST

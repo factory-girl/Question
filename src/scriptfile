@@ -1,0 +1,53 @@
+Script started on Mon 03 Feb 2014 09:16:08 PM NST
+softskeleton@softskeleton:~/workspace/Question/src$ javac QuestionTest.java
+softskeleton@softskeleton:~/workspace/Question/src$ java QuestionTest
+Which statement(s) about Java language is(are) correct?
+1: James Gosling is the inventor of Java.
+2: The inventor of Java was born in Canada.
+3: The original name of the Java language was Oak.
+Your answer: 1 2 3
+true
+softskeleton@softskeleton:~/workspace/Question/src$ cd 
+softskeleton@softskeleton:~$ cd workspace
+softskeleton@softskeleton:~/workspace$ cd Postcard
+softskeleton@softskeleton:~/workspace/Postcard$ cd sr
+bash: cd: sr: No such file or directory
+softskeleton@softskeleton:~/workspace/Postcard$ cd src
+softskeleton@softskeleton:~/workspace/Postcard/src$ javac PersonTest.java
+softskeleton@softskeleton:~/workspace/Postcard/src$ java PersonTest
+Name: Larry
+Year of birth: 1950
+Name: Joe
+Year of birth: 1985
+Major: Computer Science
+Name: Sally
+Year of birth: 1970
+Salary: 40000
+softskeleton@softskeleton:~/workspace/Postcard/src$ cd
+softskeleton@softskeleton:~$ cd workspace
+softskeleton@softskeleton:~/workspace$ c [Kd BetterRectangle
+softskeleton@softskeleton:~/workspace/BetterRectangle$ cd src
+softskeleton@softskeleton:~/workspace/BetterRectangle/src$ cd [K[K[Kjavac BetterRectangle Test.java
+softskeleton@softskeleton:~/workspace/BetterRectangle/src$ java BetterRectangleT est
+24.0
+35.0
+softskeleton@softskeleton:~/workspace/BetterRectangle/src$ cd
+softskeleton@softskeleton:~$ cd workspace
+softskeleton@softskeleton:~/workspace$ cd LabeledPoint
+softskeleton@softskeleton:~/workspace/LabeledPoint$ cd src
+softskeleton@softskeleton:~/workspace/LabeledPoint/src$ cd [K[K[Kjavac LabeledPointTest.j ava
+softskeleton@softskeleton:~/workspace/LabeledPoint/src$ c[Kjava LabeledPointTest
+LabeledPoint[x=5,y=10] Label[center]
+softskeleton@softskeleton:~/workspace/LabeledPoint/src$ cd
+softskeleton@softskeleton:~$ cd workspace
+softskeleton@softskeleton:~/workspace$ cd Filter
+softskeleton@softskeleton:~/workspace/Filter$ cd src
+softskeleton@softskeleton:~/workspace/Filter/src$ javac Wr[Kird[K[K[KordFilter.java
+softskeleton@softskeleton:~/workspace/Filter/src$ java WordFilter
+Please enter a list of words to filter, separated by spaces.
+dog cat       monkey        collider linuxx   four flag
+[, four, flag]
+softskeleton@softskeleton:~/workspace/Filter/src$ exit
+exit
+
+Script done on Mon 03 Feb 2014 09:20:58 PM NST
